@@ -1,4 +1,3 @@
-# one-pager
 <!DOCTYPE html>
 
 <html lang="en">
